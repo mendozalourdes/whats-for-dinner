@@ -1,6 +1,6 @@
 <h1> What's for Dinner?
 
-![Cooking](http://gph.is/1bjHvv9)
+![Cooking](https://media.giphy.com/media/DZQuf6L7aNsaI/giphy.gif)
 
 ### Deployed page:
 [Recipe Generator](https://mendozalourdes.github.io/whats-for-dinner/)
@@ -14,7 +14,6 @@ Can't think of what you want to make for dinner? The "What's for Dinner?" recipe
 
 # Instructions
 1. When the user first loads the app, the left side of the page displays a selection of course options to choose from so the app knows what kind of course option to propose.
-
 ![Main Page](https://user-images.githubusercontent.com/78240633/114289317-2e423580-9a34-11eb-9f7d-647e1243f9e2.png)
 
 2. Once the user decides what course they want, they click on the button next to that course option, and then click "Let's Cook!"
@@ -25,11 +24,10 @@ Can't think of what you want to make for dinner? The "What's for Dinner?" recipe
 
 4. If the user would prefer another option, they can click on the "Clear" button, and then re-select another option.
 
-6. If the user wants to see a three-course meal option, they can select "Entire Meal".
-
+5. If the user wants to see a three-course meal option, they can select "Entire Meal".
 ![Entire Meal](https://user-images.githubusercontent.com/78240633/114289245-98a6a600-9a33-11eb-9169-bfa2a9e57a56.png)
 
-5. If the user forgets to make a selection and clicks on the "Let's Cook!" button, they will receive a notification that they need to make a selection.
+6. If the user forgets to make a selection and clicks on the "Let's Cook!" button, they will receive a notification that they need to make a selection.
 ![Alert Message](https://user-images.githubusercontent.com/78240633/114289295-094dc280-9a34-11eb-99ee-ebf1c40e8a6a.png)
 
 ## Technologies Used
