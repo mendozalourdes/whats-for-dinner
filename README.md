@@ -1,23 +1,45 @@
-# What's for Dinner?
+<h1> What's for Dinner?
 
-## Overview
+![Cooking](http://gph.is/1bjHvv9)
 
-What's for dinner? The ultimate question. You will be building an app that helps users choose a recipe and put together meals. 
+### Deployed page:
+[Recipe Generator](https://mendozalourdes.github.io/whats-for-dinner/)
 
-This Solo Challenge gives students and instructors the opportunity to get a pulse on where you are with the foundational concepts of Module 1 curriculum. Students should use this as an opportunity to challenge themselves and work completely independently. Google can (and probably should!) be used, but any other code base should not be referenced. Instructors will be able to use your work, both completion of functionality and code quality, to determine where you stand and if you are behind for this point in the module, provide supports to intervene.
+### Contributor
 
-The spec for this project can be found [here](https://frontend.turing.io/projects/module-1/dinner.html). 
+Lourdes Mendoza [mendozalourdes](https://github.com/mendozalourdes)
 
-## Learning Goals
+# About
+Can't think of what you want to make for dinner? The "What's for Dinner?" recipe generator takes away the decisions of what you should make for dinner by offering you a selection of options to choose from, depending on your food course needs. You can also request an entire meal to be suggested to you if you desire.
 
-- Gain experience building an application that utilizes HTML, CSS and JavaScript
-- Write HTML and CSS to match a provided comp
-- Understand how to listen to and respond to user events
-- Individualize your programming skill set
+# Instructions
+1. When the user first loads the app, the left side of the page displays a selection of course options to choose from so the app knows what kind of course option to propose.
 
-## Setup
+![Main Page](https://user-images.githubusercontent.com/78240633/114289317-2e423580-9a34-11eb-9f7d-647e1243f9e2.png)
 
-- Fork this project to your own Github account
-- Clone the repository to your local machine
-- `cd` into the project
-- Read this README thoroughly, then begin working!
+2. Once the user decides what course they want, they click on the button next to that course option, and then click "Let's Cook!"
+![Select Option](https://user-images.githubusercontent.com/78240633/114289341-5467d580-9a34-11eb-9b73-f97cda0342c9.png)
+
+3. On the right side of the page, the picture of the cooking pot disappears, and a random dish name appears!
+![Main Dish](https://user-images.githubusercontent.com/78240633/114289304-1b2f6580-9a34-11eb-9238-e10321555036.png)
+
+4. If the user would prefer another option, they can click on the "Clear" button, and then re-select another option.
+
+6. If the user wants to see a three-course meal option, they can select "Entire Meal".
+
+![Entire Meal](https://user-images.githubusercontent.com/78240633/114289245-98a6a600-9a33-11eb-9169-bfa2a9e57a56.png)
+
+5. If the user forgets to make a selection and clicks on the "Let's Cook!" button, they will receive a notification that they need to make a selection.
+![Alert Message](https://user-images.githubusercontent.com/78240633/114289295-094dc280-9a34-11eb-99ee-ebf1c40e8a6a.png)
+
+## Technologies Used
+
+  Javascript
+
+  HTML
+
+  CSS
+
+## Future Additions
+
+Future additions to the recipe generator will include the ability to save some of your favorite recipes, which will be stored for your future use. Additionally, there will be an option to add some of your own recipes, which will then be another option displayed at random.
